@@ -6,3 +6,5 @@ adding item to list
 4. get placed
 
 thank you
+
+done with placed task
