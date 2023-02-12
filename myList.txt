@@ -1,0 +1,4 @@
+things to doo
+adding item to list
+1. learn git
+2. implement git
