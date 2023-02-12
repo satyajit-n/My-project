@@ -3,3 +3,6 @@ adding item to list
 1. learn git
 2. implement git
 3. complete sharpener tasks
+
+
+thank you
